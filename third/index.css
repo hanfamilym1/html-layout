@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.top {
+    width: 100vw;
+    height: 12vh;
+    background-color: #D8D8D8;
+    padding: 20px;
+}
+
+#box {
+    width: 10px;
+    height: 10px;
+    background-color: #4A90E2;
+    padding: 30px;
+    margin: 5px;
+}
+
+
+
+p {
+    width: 80vw;
+    height: 10vh;
+    font-size: 20px;
+    margin: 10vh 10vw;
+    font-family: sans-serif;
+}
+
+.third {
+    width: 100vw;
+    height: 15vh;
+    background-color: #4A90E2;
+
+}
+
+.fourth {
+    width: 100vw;
+    height: 15vh;
+    background-color: #50E3C2;
+
+}
+
+.fifth {
+    width: 100vw;
+    height: 15vh;
+    background-color: #B8E986;
+
+}
+
+.sixth {
+    width: 100vw;
+    height: 15vh;
+    background-color: #F8E71C;
+}
